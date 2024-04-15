@@ -21,6 +21,7 @@ Legowo - Removed random oob trigger and blocked wall to stop oob (WIPE FLY TRIAL
 
 tested, pending upload & wipe:
 13546392986 - Moderated - Fix the start trigger skip and later rng trigger skip - aidan and miners were arguing about whether to just make the rng scrip consistent instead and avoid a wipe
+17156538520 - Neon Vibes V2 - Fixed incorrect spawn name and zoned bonus
 
 submitted fixes (wipe times):
 12687188945 - Reddish - misplaced invisible wall fixed, wall wedge at the end is now collidable (do not wipe bonus times)
@@ -32,6 +33,7 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 16503936411 - Questionable Trials - Fixed being able to do a diffcult jump around teleport
+17153255171 - Sqee - Added sqee short as a bonus
 
 add map data:
 
