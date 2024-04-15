@@ -8,12 +8,14 @@ Beginner - Added invis roof to fix oob (WIPE FLY TRIALS ONLY)
 Ice - Fixed oob + remade anti tele to prevent standing on it (WIPE FLY TRIALS ONLY)
 Andromeda - Fixed obscure oob (WIPE FLY TRIALS ONLY)
 
+
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 14139570305 - Autumn - Add roof to fix oob (duckadvice)
 16292283569 - Mausoleum - Made start wall CanCollide True
 16279647725 - Andromeda - fixed oob, patched rock surf/hop at start (duckadvice)
+17152864064 - Lines - fixed oob, ceiling above red spawn made CanCollide True
 
 tested, pending upload:
 
@@ -22,6 +24,8 @@ submitted fixes (no wipe):
 16169077606 - Underworld - fixed spines & closer to (0,0,0) (duckadvice)
 16145757351 - Startup - fixed spines & donut ramps (duckadvice)
 16145961137 - Chimera - fixed oob (duckadvice, offending times will be deleted manually)
+17156180271 - Seventy-Two Percent more Pineapple - fixed skip directly to end. (offending times will be deleted manually)
+17155670131 - Utopia - fixed startzone being annoying 
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
@@ -39,6 +43,7 @@ submitted fixes need add map data:
 16214270894 - Abseil - Fix the bad ramps and spines, general cleanup
 16127842262 - Golden Glory - Fixed ramps finally (duckadvice)
 14502969054 - Desolate - Redone ramps to be smooth (duckadvice)
+17156265575 - Obscurity - nothing changed, maps works perfectly fine? suggested change made map unplayable for some reason
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
