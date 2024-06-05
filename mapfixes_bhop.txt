@@ -26,6 +26,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+17739542011 - Colorize - Zoned bonus
 
 add map data:
 
